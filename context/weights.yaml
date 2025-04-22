@@ -1,7 +1,7 @@
 # Context weights for meaning collapse
-     化学:
-       量: 0.9
-       测: 0.8
-     金融:
-       量: 0.7
-       测: 0.5
+  化学:
+    量: 0.9  # Strong bias toward "quantity" in chemistry
+    测: 0.8  # Bias toward precise measurement
+  金融:
+    量: 0.7  # Leans toward "quantum" in finance
+    测: 0.5  # Neutral measurement
