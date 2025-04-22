@@ -1,0 +1,12 @@
+// Quantum Chinese Grammar Rules
+   start: (quantum_decl | measure)+
+
+   quantum_decl: "量" CNAME "=" "[" NUMBER ("," NUMBER)* "]"  
+   measure: "测" CNAME -> measure_op  
+   context: "上下文" CONTEXT_TYPE ":" -> context_start  
+
+   CONTEXT_TYPE: "化学" | "金融" | "机器学习"  
+   state: NUMBER | CNAME
+
+   %import common.CNAME  
+   %import common.NUMBER
