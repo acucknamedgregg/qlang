@@ -1,0 +1,7 @@
+# Context weights for meaning collapse
+     化学:
+       量: 0.9
+       测: 0.8
+     金融:
+       量: 0.7
+       测: 0.5
