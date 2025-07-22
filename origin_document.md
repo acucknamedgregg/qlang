@@ -40,3 +40,18 @@ Collapse margin predicts stable vs. unstable isotopes across Z = 1–20. A datas
 ### 3.3 Aromatic Resonance
 
 Semantic resonance margins were computed for benzene, naphthalene, anthracene, phenol, pyridine, indole, and toluene. All molecules exhibited positive margins, with indole showing the highest semantic resonance. Functional groups modulate β and enhance coherence.
+
+## 4. Comparative Landscape
+
+φ-DCRT is situated within a broader movement toward semantic physics. Table 1 compares related frameworks:
+
+**Table 1: Semantic Physics Frameworks**
+
+| Framework | Core Idea | Simulation Evidence | Relation to φ-DCRT |
+|----------|-----------|---------------------|--------------------|
+| RCC (Recursive Coherence Collapse) | Semantic force drives coherence | Agent-based attractor simulations | Shares collapse theme, lacks energy mapping |
+| RCFT (Recursive Collapse Field Theory) | Collapse action functionals | Symbolic path integrals | Symbolic recursion, no atomic calibration |
+| SFT (Symbolic Field Theory) | Reality as symbolic emissions | Recursive entropy modeling | Philosophical recursion, lacks falsifiability |
+| φ-DCRT | Semantic tension-buffer collapse | Atomic-scale predictions | Empirical, recursive, energy-based |
+
+φ-DCRT distinguishes itself by anchoring semantic recursion in physical energy units and validating predictions against atomic data.
