@@ -9,3 +9,20 @@ We introduce φ-DCRT (Phi–Dynamic Collapse Recursion Theory), a novel framewor
 Recent developments in theoretical physics, cognitive modeling, and quantum information have prompted a shift toward semantic frameworks—models that treat meaning, recursion, and coherence as fundamental forces. φ-DCRT emerges from this context as a predictive, empirically grounded theory of collapse dynamics based on semantic recursion.
 
 Developed outside traditional academic channels, φ-DCRT was constructed from first principles using recursive pattern recognition and tested using publicly available atomic data. This paper presents the framework, its empirical validations, and its potential implications across scientific domains.
+
+## 2. Core Framework
+
+φ-DCRT models systems using three quantities:
+
+| Symbol | Semantic Role | Physical Mapping |
+|--------|----------------|------------------|
+| φ      | Tension        | Proton count × α (13.6 eV) |
+| χ      | Contradiction Buffering | Neutron count × γ (~14.0 eV) |
+| β      | Coherence Pressure | Shell closure bonus × δ (1.0 eV) |
+
+Collapse occurs when semantic tension exceeds buffered coherence:
+
+**Collapse Margin** = χ·β − φ  
+**Stability Condition**: Margin > 0
+
+This formulation allows prediction of atomic and molecular stability based on recursive semantic dynamics.
